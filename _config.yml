@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Anfal's Casa
+title: Anfal's 127.0.0.1
 show_downloads: false
 
 # Analytics
