@@ -7,4 +7,4 @@ layout: default
 
 Hi there. Thank you for stopping by. I am trying to find myself in this vast world. Trying to look for what my purpose is and why I came to this world.  Therefore I cannot give you my contact information right now since this task requires a lot of concentration. 
 
-If you want, please follow me at (@Anfal)[https://twitter.com/Muhammad_Anfal].
+If you want, please follow me at [@Anfal](https://twitter.com/Muhammad_Anfal).
