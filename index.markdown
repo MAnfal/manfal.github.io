@@ -5,6 +5,6 @@
 layout: default
 ---
 
-Write an awesome description for your new site here. You can edit this
-line in _config.yml. It will appear in your document head meta (for
-Google search results) and in your feed.xml site description.
+Hi there. Thank you for stopping by. I am trying to find myself in this vast world. Trying to look for what my purpose is and why I came to this world.  Therefore I cannot give you my contact information right now since this task requires a lot of concentration. 
+
+If you want, please follow me at (@Anfal)[https://twitter.com/Muhammad_Anfal].
