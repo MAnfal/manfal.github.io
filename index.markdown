@@ -5,6 +5,4 @@
 layout: default
 ---
 
-Let's get to [civilization level 2](https://en.wikipedia.org/wiki/Kardashev_scale) and beyond.
-
-If you want, please feel free to follow me on [Twitter](https://twitter.com/Muhammad_Anfal).
+Playing my part in taking humanity to [civilization level 2](https://en.wikipedia.org/wiki/Kardashev_scale) and beyond. If you want, please feel free to follow me on [Twitter](https://twitter.com/Muhammad_Anfal).
