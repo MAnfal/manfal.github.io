@@ -9,3 +9,9 @@ meta: "Hello World"
 ---
 
 Hello world. This is a test post.
+
+```
+const test = 'This is a test';
+
+console.log(test);
+```
