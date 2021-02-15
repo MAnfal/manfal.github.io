@@ -15,6 +15,14 @@
 <link rel="canonical" href="{{ site.page.url | replace:'index.html','' | prepend: site.baseurl }}">
 
 <meta property="og:title" content="{% if site.page.title %} {{ site.page.title }} — {{ site.page.subtitle }} {% endif %} | {{ site.title }}">
-<meta property="og:type" content="Blog">
-<meta property="og:url" content="https://anf.al">
-<meta property="og:image" content="https://anf.al/assets/img/personal.jpeg">
+<meta property="og:type" content="{{ site.page.type }}">
+<meta property="og:url" content="{{ site.url }}">
+<meta property="og:image" content="{{ site.page.cardImage }}">
+<meta property="og:description" content="{{ site.description }}">
+
+<meta property="twitter:title" content="{% if site.page.title %} {{ site.page.title }} — {{ site.page.subtitle }} {% endif %} | {{ site.title }}">
+<meta property="twitter:card" content="{{ site.page.type }}">
+<meta property="twitter:site" content="{{ site.url }}">
+<meta property="twitter:creator" content="@{{ site.author.twitter }}">
+<meta property="twitter:image" content="{{ site.page.cardImage }}">
+<meta property="twitter:description" content="{{ site.description }}">

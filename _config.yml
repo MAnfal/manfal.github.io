@@ -18,6 +18,8 @@ gtag: UA-67493206-2
 page:
   keywords: Anfal, Personal Blog
   title: Anfal's Blog
+  type: Blog
+  cardImage: https://anf.al/assets/img/personal.jpeg
 
 
 # Syntax highlighting
