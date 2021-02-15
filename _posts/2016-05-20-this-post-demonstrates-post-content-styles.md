@@ -3,7 +3,7 @@ layout: page
 title: "This post demonstrates post content styles"
 subtitle: "This is a subtitle"
 date:   2016-05-20 21:21:21 +0530
-categories: ["general"]
+categories: ["general", "test"]
 author: "Bart Simpson"
 meta: "Springfield"
 ---
