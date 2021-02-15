@@ -1,26 +1,28 @@
+<title>{{ page.title }}</title>
+
 <meta charset="UTF-8">
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>{{ site.page.title }}</title>
+<meta name="author" content="{{ site.author.fullname }}">
 
-<meta name="description" content="{% if site.page.description %}{{ site.page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-{% if site.page.keywords %}
-    <meta name="keywords" content="{{ site.page.keywords }}">
+{% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
 {% endif %}
 
-<meta property="og:title" content="{{ site.page.title }}">
-<meta property="og:type" content="{{ site.page.type }}">
-<meta property="og:url" content="{{ site.url }}">
-<meta property="og:image" content="{{ site.page.cardImage }}">
-<meta property="og:description" content="{{ site.description }}">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:type" content="{{ page.type }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ page.image }}">
+<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-<meta property="twitter:title" content="{{ site.page.title }}">
-<meta property="twitter:card" content="{{ site.page.type }}">
-<meta property="twitter:site" content="{{ site.url }}">
+<meta property="twitter:title" content="{{ page.title }}">
+<meta property="twitter:card" content="{{ page.type }}">
+<meta property="twitter:site" content="{{ site.url }}{{ page.url }}">
 <meta property="twitter:creator" content="@{{ site.author.twitter }}">
-<meta property="twitter:image" content="{{ site.page.cardImage }}">
-<meta property="twitter:description" content="{{ site.description }}">
+<meta property="twitter:image" content="{{ page.image }}">
+<meta property="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">

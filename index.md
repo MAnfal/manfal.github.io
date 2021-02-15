@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Blog
-subtitle: My thoughts
+title: Anfal's Blog
+type: Blog
+image: https://anf.al/assets/img/personal.jpeg
+keywords: Anfal's Blog, Blog, Personal Blog
 ---
 
 <h1 class="page-title">
-    <div class="page-title__text">
+    <span class="page-title__text">
         My Thoughts
-    </div>
+    </span>
 </h1>
 
 <div>
@@ -25,7 +27,7 @@ subtitle: My thoughts
         <ul class="list-posts">
             {% for post in category.items %}
                 <li class="post-teaser">
-                    <a href="{{ post.url | prepend: site.baseurl }}">
+                    <a href="{{ post.url | prepend: site.url }}">
                         <span class="post-teaser__title">{{ post.title }}</span>
                         <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
                     </a>
