@@ -2,7 +2,7 @@
 layout: page
 title: Anfal's Blog
 type: Blog
-image: https://anf.al/assets/img/personal.jpeg
+relimage: assets/img/personal.jpeg
 keywords: Anfal's Blog, Blog, Personal Blog
 ---
 

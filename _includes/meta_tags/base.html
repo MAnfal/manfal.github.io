@@ -17,12 +17,12 @@
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:type" content="{{ page.type }}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-<meta property="og:image" content="{{ page.image }}">
+<meta property="og:image" content="{% if page.relimage %}{{ site.url }}/{{ page.relimage }}{% else %}{{ page.image }}{% endif %}">
 <meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
 <meta property="twitter:title" content="{{ page.title }}">
 <meta property="twitter:card" content="{{ page.type }}">
 <meta property="twitter:site" content="{{ site.url }}{{ page.url }}">
 <meta property="twitter:creator" content="@{{ site.author.twitter }}">
-<meta property="twitter:image" content="{{ page.image }}">
+<meta property="twitter:image" content="{% if page.relimage %}{{ site.url }}/{{ page.relimage }}{% else %}{{ page.image }}{% endif %}">
 <meta property="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
