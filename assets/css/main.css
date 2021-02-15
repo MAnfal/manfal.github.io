@@ -439,3 +439,9 @@
   /* Custom */
   .go-home {
     text-align: center; }
+
+  #personal-img {
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+  }
