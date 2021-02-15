@@ -1,15 +1,36 @@
 ---
 layout: page
-title: Greetings
-subtitle: My name is Anfal
-sitemap:
-  priority: 0.9
+title: Blog
+subtitle: My thoughts
 ---
 
-<img src="{{ '/assets/img/personal.jpeg' | prepend: site.baseurl }}" id="personal-img">
+<h1 class="page-title">
+    <div class="page-title__text">
+        My Thoughts
+    </div>
+</h1>
 
-<div id="describe-text">
-  <p>This site houses my journey through space and time while I am trying to find myself and grow.</p>
-  <p>I have made a pact with myself to write a blog whenever I can so I will definitely do that but since trying to find oneself is a tedious task, please do consider this before contacting me. I might not be able to reply back.</p>
-  <p>Please feel free to follow me on twitter. I hope you enjoy your stay here and thank you for your time. :)</p>
+<div>
+    {% assign postsCategory = site.posts | group_by_exp:"post", "post.categories"  %}
+    {% for category in postsCategory %}
+        <h4 class="post-teaser__month">
+            <strong>
+                {% if category.name %} 
+                    - - - - -  {{ category.name }} - - - - - 
+                {% else %} 
+                    {{ Print }} 
+                {% endif %}
+            </strong>
+        </h4>
+        <ul class="list-posts">
+            {% for post in category.items %}
+                <li class="post-teaser">
+                    <a href="{{ post.url | prepend: site.baseurl }}">
+                        <span class="post-teaser__title">{{ post.title }}</span>
+                        <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
 </div>
