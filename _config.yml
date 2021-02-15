@@ -13,11 +13,9 @@ author:
   email: null
   twitter: Muhammad_Anfal
 
-site:
-  gtag: UA-67493206-2
+gtag: UA-67493206-2
 
-page:
-  tags:
+tags:
     Anfal
     Personal Blog
 
