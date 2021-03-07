@@ -1,8 +1,11 @@
 <!-- Allowed parameters: description, url, credits -->
 
 <figure class="image">
-  <img src="{{ site.url }}/{{ include.url }}" alt="{{ include.description }}">
-  <figcaption class="fig-caption">
-      {{ include.description }}{% if include.credits %}, <a href="{{ include.credits }}" target="_blank">Credits</a>{% endif %}
-  </figcaption>
+  <img src="{{ site.url }}/{{ include.url }}" alt="{{ include.description }}" class="centered-image">
+
+  {% if include.description %}
+    <figcaption class="fig-caption">
+        {{ include.description }}{% if include.credits %}, <a href="{{ include.credits }}" target="_blank">Credits</a>{% endif %}
+    </figcaption>
+  {% endif %}
 </figure>

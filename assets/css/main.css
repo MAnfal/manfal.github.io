@@ -450,3 +450,7 @@
     text-align: center;
     color: grey;
   }
+
+  .centered-image {
+    margin: 0 auto;
+  }
