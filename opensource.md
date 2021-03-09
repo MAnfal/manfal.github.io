@@ -1,8 +1,7 @@
 ---
 layout: page
-
 title: Anfal's Open Source Contributions
-type: Page
+type: Blog
 keywords: open source,opensource,anfal opensource,anfal open source
 description: Anfal's open-source contributions
 ---
