@@ -3,7 +3,7 @@ layout: blog
 
 title: Tailwind CSS Review By A Backend Developer
 type: Blog
-image: assets/blog-images/2021-03-06-tailwindcss-review-by-a-backend-developer/tailwindcss.png
+relimage: assets/blog-images/2021-03-06-tailwindcss-review-by-a-backend-developer/tailwindcss.png
 keywords: tailwind,tailwindcss,tailwindui,css,design,website,websites,utility first
 description: My thoughts on tailwindcss as a back-end developer
 date: 2021-03-06
