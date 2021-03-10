@@ -5,7 +5,7 @@ title: Hello World
 type: Blog
 relimage: assets/blog-images/2021-03-09-hello-world/cpp-logo.png
 keywords: cpp,c++,cplusplus,c plus plus,hello world,programming
-description: My thoughts on tailwindcss as a back-end developer
+description: Why I have decided to learn C++
 date: 2021-03-09
 categories: "general-thoughts"
 ---
