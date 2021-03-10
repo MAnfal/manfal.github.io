@@ -4,6 +4,7 @@ title: Anfal's Open Source Contributions
 type: Blog
 keywords: open source,opensource,anfal opensource,anfal open source
 description: Anfal's open-source contributions
+relimage: assets/img/open-source.png
 ---
 
 # Context
