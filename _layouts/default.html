@@ -6,10 +6,14 @@
         {% include externals/styling.html %}
     </head>
     <body>
-        <div class="wrapper">
+        <div class="flex flex-col h-screen">
             {% include header.html %}
 
-            {{ content }}
+            <div class="flex-grow">
+                {{ content }}
+            </div>
+
+            {% include page/about.html %}
         </div>
 
         {% include externals/scripting.html %}

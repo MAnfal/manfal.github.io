@@ -1,6 +1,44 @@
-<div class="about">
-    <div class="about__devider">*****</div>
-    <div class="about__text">
-        <strong> Made with </strong> <i style="color: #e25555;" class="fa fa-heart"></i> <strong> by {{ site.author.fullname }} </strong>
+<footer class="bg-gray-800" aria-labelledby="footerHeading">
+    <h2 id="footerHeading" class="sr-only">Footer</h2>
+    <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
+      <div class="md:flex md:items-center md:justify-between">
+        <div class="flex space-x-6 md:order-2">
+            {% if site.author.github %}
+                <a
+                    class="text-gray-400 hover:text-gray-300"
+                    target="_blank"
+                    href="https://github.com/{{ site.author.github }}"
+                >
+                    <span class="sr-only">Github Profile</span>
+                    <i class="fab fa-github"></i>
+                </a>
+            {% endif %}
+
+            {% if site.author.linkedin %}
+                <a
+                    class="text-gray-400 hover:text-gray-300"
+                    target="_blank"
+                    href="https://github.com/{{ site.author.linkedin }}"
+                >
+                    <span class="sr-only">LinkedIn Profile</span>
+                    <i class="fab fa-linkedin-in"></i>
+                </a>
+            {% endif %}
+
+            {% if site.author.twitter %}
+                <a
+                    class="text-gray-400 hover:text-gray-300"
+                    target="_blank"
+                    href="https://github.com/{{ site.author.twitter }}"
+                >
+                    <span class="sr-only">Twitter Profile</span>
+                    <i class="fab fa-twitter"></i>
+                </a>
+            {% endif %}
+        </div>
+        <p class="mt-8 text-base text-gray-400 md:mt-0 md:order-1">
+            <strong> Made with </strong> <i style="color: #e25555;" class="fa fa-heart"></i> <strong> by {{ site.author.fullname }} </strong>
+        </p>
+      </div>
     </div>
-</div>
+</footer>

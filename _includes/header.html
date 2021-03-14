@@ -39,40 +39,6 @@
             </div>
           </div>
         </div>
-        <div class="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
-            {% if site.author.github %}
-                <a
-                    class="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
-                    title="Github Profile"
-                    target="_blank"
-                     href="https://github.com/{{ site.author.github }}"
-                >
-                    <i class="fab fa-github"></i>
-                </a>
-            {% endif %}
-
-            {% if site.author.linkedin %}
-                <a
-                    class="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
-                    title="LinkedIn Profile"
-                    target="_blank"
-                     href="https://in.linkedin.com/in/{{ site.author.linkedin }}"
-                >
-                    <i class="fab fa-linkedin-in"></i>
-                </a>
-            {% endif %}
-
-            {% if site.author.github %}
-                <a
-                    class="bg-gray-800 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white"
-                    title="Twitter Profile"
-                    target="_blank"
-                     href="https://twitter.com/{{ site.author.twitter }}"
-                >
-                    <i class="fab fa-twitter"></i>
-                </a>
-            {% endif %}
-        </div>
       </div>
     </div>
 
@@ -82,4 +48,4 @@
         <a href="{{ '/opensource' | prepend: site.url }}" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Open Source</a>
       </div>
     </div>
-  </nav>
+</nav>
