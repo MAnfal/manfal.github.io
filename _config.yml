@@ -18,4 +18,21 @@ gtag: UA-67493206-2
 highlighter: null
 markdown: kramdown
 
-exclude: ['src/']
+exclude: [
+  'src',
+  'webpack.mix.js',
+  'tslint.json',
+  'tsconfig.json',
+  'package.json',
+  'Gemfile',
+  'Gemfile.lock',
+  'definition-manifest.json',
+  'node_modules',
+  'tailwind.config.js',
+  'package-lock.json',
+  'mix-manifest.json',
+  '.eslintrc',
+  '.editorconfig',
+  '.vscode',
+  '.devcontainer'
+]
