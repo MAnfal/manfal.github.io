@@ -10,7 +10,7 @@ mix.webpackConfig({
 });
 
 if (mix.inProduction()) {
-    mix.disableNotifications().sourceMaps();
+    mix.disableNotifications();
 }
 
-mix.ts("src/index.ts", "dist");
+mix.postCss("src/css/app.css", "assets/css", [require("tailwindcss")]);

@@ -17,3 +17,5 @@ gtag: UA-67493206-2
 # Build settings
 highlighter: null
 markdown: kramdown
+
+exclude: ['src/']
