@@ -1,0 +1,30 @@
+{
+  "name": "manfal.github.io",
+  "version": "0.1.0",
+  "description": "Anfal personal website.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "production": "mix --production",
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MAnfal/manfal.github.io.git"
+  },
+  "keywords": [],
+  "author": "Anfal",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://anf.al",
+  "devDependencies": {
+    "laravel-mix": "^6.0.13",
+    "postcss": "^8.2.7",
+    "ts-loader": "^8.0.17",
+    "typescript": "^4.2.3"
+  }
+}
