@@ -1,5 +1,11 @@
+<!-- Syntax highligher -->
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/highlight.min.js"></script>
 
+<script>
+    hljs.highlightAll();
+</script>
+
+<!-- Google Analytics -->
 {% if site.gtag %}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
   <script>
@@ -10,7 +16,3 @@
     gtag('config', '{{ site.gtag }}');
   </script>
 {% endif %}
-
-<script>
-    hljs.highlightAll();
-</script>
