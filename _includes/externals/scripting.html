@@ -1,4 +1,4 @@
-<script src="{{ "/assets/vendor/highlight/highlight.pack.js" | prepend: site.url }}"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/highlight.min.js"></script>
 
 {% if site.gtag %}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.gtag }}"></script>
@@ -12,5 +12,5 @@
 {% endif %}
 
 <script>
-    hljs.initHighlightingOnLoad();
+    hljs.highlightAll();
 </script>

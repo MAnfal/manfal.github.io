@@ -26,14 +26,14 @@ From the maintenance POV, it will quickly become a nightmare if you re-invent th
 
 A very good example of such abstraction and ease of use is when you work with things like tensors. Let's take a look at a very basic matrix operation in Python 3.x.
 
-```python
+<pre><code class="python">
 import numpy as np
 
 dummy_array = np.array([[1, 2], [3, 4]])
 
 # Print out transpose of dummy_array
 print(dummy_array.T)
-```
+</code></pre>
 
 Now if you just want the transpose, then look no further. But, if you are like me and you want to know what the hell happened? you will start to wonder how did all of this happen? how did we get an array? why is a nested Python list acting as a matrix? what is `.T`? what mathematical calculation went into finding the transpose? In reality, we got the job done because Python made it easy for us but we missed out on so much learning and knowledge and my friend, this knowledge is what's necessary to go to the pinnacle. After all, it is said that the devil is in the details.
 
