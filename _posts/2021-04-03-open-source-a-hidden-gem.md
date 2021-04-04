@@ -64,4 +64,4 @@ It's a long debate and it depends on your business model but one thing is for su
 
 ## Final Thoughts
 
-Open source is the future. Support it however you can. The choice of stuff you open-source does not matter, what matters is that you start contributing towards it. It's more about forming a habit and a mindset than open-sourcing the one thing you think can bring you a more stars. Think open-source by choice.
+Open source is the future. Support it however you can. The choice of stuff you open-source does not matter, what matters is that you start contributing towards it. It's more about forming a habit and a mindset than open-sourcing the one thing you think can bring you more stars. Think open-source by choice.
