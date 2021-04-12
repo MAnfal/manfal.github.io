@@ -19,7 +19,7 @@ Write your code for humans. Make sure to create repeatable patterns in your code
 # Explanation
 
 As human beings, we are bound by our mental limitations and as we get older, these limitations only increase. Some notable limitations include memory loss, time skipping, and a gradual decrease in learning capabilities.
-There are experiments carried across the entire world on our perception and how our minds respond to the stimuli with age. 2 experiments relevant to our discussion are discussed below.
+There are experiments done across the globe on our perception and how our minds respond to the external stimuli with age. 2 experiments relevant to our discussion are discussed below.
 
 ## Why Life Seems to Speed Up as We Age?
 
