@@ -7,7 +7,7 @@ relimage: assets/blog-images/2021-04-11-write-your-code-for-humans/intelligent-b
 keywords: code,coding,refactor,refactoring,code refactor,code-refactor,humans,human,programming,tech,technology,software development,software,developer,development
 description: Write your code for humans.
 date: 2021-04-11
-categories: "general-thoughts"
+categories: "programming"
 ---
 
 {% include components/captioned_image.html url="assets/blog-images/2021-04-11-write-your-code-for-humans/intelligent-brain.png" %}

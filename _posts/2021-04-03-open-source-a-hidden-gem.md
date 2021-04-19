@@ -7,7 +7,7 @@ relimage: assets/blog-images/2021-04-03-open-source-a-hidden-gem/love-open-sourc
 keywords: open-source,open source,coding,programming,softwareengineering,software,engineering,software-engineering,software engineering
 description: Why you should start contributing to open source.
 date: 2021-04-03
-categories: "general-thoughts"
+categories: "tech"
 ---
 
 {% include components/captioned_image.html url="assets/blog-images/2021-04-03-open-source-a-hidden-gem/love-open-source.gif" description="Love Open Source" credits="https://dribbble.com/shots/5794317-We-Love-Open-Source" %}

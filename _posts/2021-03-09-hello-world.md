@@ -7,7 +7,7 @@ relimage: assets/blog-images/2021-03-09-hello-world/cpp-logo.png
 keywords: cpp,c++,cplusplus,c plus plus,hello world,programming
 description: Why I have decided to learn C++
 date: 2021-03-09
-categories: "general-thoughts"
+categories: "programming"
 ---
 
 {% include components/captioned_image.html url="assets/blog-images/2021-03-09-hello-world/cpp-logo.png" %}
