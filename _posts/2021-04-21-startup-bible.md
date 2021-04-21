@@ -1,11 +1,11 @@
 ---
 layout: blog
 
-title: Startup Bible
+title: Startup Bible [Actively Maintained]
 type: Blog
 relimage: assets/blog-images/2021-04-21-startup-bible/startup-bible.jpg
 keywords: tech,startup,startups,bible,startup bible,startups bible,tech startups bible,tech startup bible
-description: Startup Bible
+description: Startup Bible [Actively Maintained]
 date: 2021-04-21
 categories: "startup"
 ---
