@@ -18,7 +18,7 @@ I have had a very difficult time figuring out the nitty gritty details of startu
 
 # Prepare For The Startup World In Steps
 
-## Step 1: Read/Listen To The Following Books
+## Step 1: Read / Listen To The Following Books
 
 1. [Atomic Habits](https://www.audible.ca/pd/Atomic-Habits-Audiobook/B07GBGQJSW). Learn how to build habits. It is extremely important because startups are not easy and consistency is everything.
 2. [Essentialism](https://www.audible.ca/pd/Essentialism-Audiobook/B072591XFD). Learn the importance of focusing on what's important and blocking the noise. Extremely important since startups require the art of solving the correct problem.
