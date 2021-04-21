@@ -53,9 +53,9 @@ Please go through the resources in **Prepare For The Startup World In Steps** be
 
 This an important step so don't ignore it. The best product in the world is of no use if there is no one to use it. The mom test will definitely get you your first customers and you will be able to scale outwards from there but having an active audience always give you an edge. Read this [article](https://www.reddit.com/r/Entrepreneur/comments/mpdvq6/i_built_a_50k_following_in_9_months_and_it/) to get more insight on how you can build engaging audience on Twitter. The most important thing is you provide value to the world. What you'll provide will never go to waste and will always be reciprocated.
 
-## Step 2: Problem Identification
+## Step 2: Problem Identification / Validation
 
-You need to figure out a problem. If you have gone through the resource above, you will know that first you have to figure out a problem in the real world. Once you have figured out the problem, you can apply the mom test to figure out if the problem is actually something you should be solving. You can also use the mom test to find the problem.
+You need to figure out a problem. If you have gone through the resource above, you will know that first you have to figure out a problem in the real world. Once you have figured out the problem, you can apply the mom test to figure out if the problem is actually something you should be solving. You can also use the mom test to find the problem. I will suggest reading up on this [article](https://www.reddit.com/r/startups/comments/mmwphz/how_stripe_validates_ideas_for_new_products/) and this [Twitter thred](https://twitter.com/shreyas/status/1376033582305615873) on how to validate and prioritize the features in the product. 
 
 ## Step 3: Build The MVP
 
