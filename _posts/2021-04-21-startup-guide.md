@@ -1,16 +1,16 @@
 ---
 layout: blog
 
-title: Startup Bible [Actively Maintained]
+title: Startup Guide [Actively Maintained]
 type: Blog
-relimage: assets/blog-images/2021-04-21-startup-bible/startup-bible.jpg
-keywords: tech,startup,startups,bible,startup bible,startups bible,tech startups bible,tech startup bible
-description: Startup Bible [Actively Maintained]
+relimage: assets/blog-images/2021-04-21-startup-guide/startup-guide.jpg
+keywords: tech,startup,startups,guide,startup guide,startups guide,tech startups guide,tech startup guide
+description: Startup Guide [Actively Maintained]
 date: 2021-04-21
 categories: "startup"
 ---
 
-{% include components/captioned_image.html url="assets/blog-images/2021-04-21-startup-bible/startup-bible.jpg" %}
+{% include components/captioned_image.html url="assets/blog-images/2021-04-21-startup-guide/startup-guide.jpg" %}
 
 # Context
 
