@@ -454,3 +454,8 @@
   .centered-image {
     margin: 0 auto;
   }
+
+  code {
+    background-color: #1f1f1f;
+    padding: 4px;
+  }
