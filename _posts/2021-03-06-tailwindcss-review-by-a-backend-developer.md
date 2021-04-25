@@ -12,6 +12,8 @@ categories: "web-design"
 
 {% include components/captioned_image.html url="assets/blog-images/2021-03-06-tailwindcss-review-by-a-backend-developer/tailwindcss.png" %}
 
+{% include components/consider-following-on-twitter.html %}
+
 You must've seen a lot of reviews on tailwindcss already. Therefore I won't go into the details but, just as a little refresher, tailwindcss is a utility first CSS framework that allows you to create the entire front-end of a website without touching any CSS at all. If you are interested in reading more, you can certainly check out <a href="https://blog.logrocket.com/tailwind-css-is-it-tomorrows-bootstrap-ebe560f9d00b/" target="_blank">LogRocket's</a> article.
 
 ## TL;DR

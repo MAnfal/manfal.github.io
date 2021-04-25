@@ -12,6 +12,8 @@ categories: "startup"
 
 {% include components/captioned_image.html url="assets/blog-images/2021-04-21-startup-guide/startup-guide.jpg" %}
 
+{% include components/consider-following-on-twitter.html %}
+
 # Context
 
 I have had a very difficult time figuring out the nitty gritty details of startups and I want to save your time by relaying my knowledge to you. Here is a step by step list of creating a startup that I would follow if I had to create one.

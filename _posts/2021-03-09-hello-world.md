@@ -12,6 +12,8 @@ categories: "programming"
 
 {% include components/captioned_image.html url="assets/blog-images/2021-03-09-hello-world/cpp-logo.png" %}
 
+{% include components/consider-following-on-twitter.html %}
+
 It's been seven years since I graduated and it's been a heck of a journey, filled with adventures, learnings, meeting great people, and much more.
 
 I still remember my first job. It was a back-end engineering role in Java. It was the language we picked up along-side C++ to learn object-oriented programming. The moment we started using it, I fell in love with it. The things we used to do in 100s of LOC were all condensed into a couple of LOCs max. I even used to question my teacher who would focus more on C++ and less on Java about why are we even learning C++? why should I write an entire 50+ LOC function to read in a file and process its lines when I can do the same thing in Java for under 5 lines? but he knew what was right for us. I was just excited to learn Java because it made our lives so much easier and in the process, I drifted apart from C++.

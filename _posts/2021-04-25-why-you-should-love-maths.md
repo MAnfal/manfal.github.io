@@ -1,16 +1,16 @@
 ---
 layout: blog
 
-title: Are we living in the jail of our mind?
+title: Why you should love maths!!
 type: Blog
-relimage: assets/blog-images/2021-04-17-are-we-in-the-jail-of-our-mind/brain.jpg
-keywords: jail,mind,brain,thoughts,philosohpy,ambition,future
-description: Are we living in the jail of our mind?
-date: 2021-04-17
+relimage: assets/blog-images/2021-04-25-why-you-should-love-maths/i-love-maths.jpg
+keywords: love maths,calculus,mathematics,algebra,differential calculus,nature
+description: Why you should love maths!!
+date: 2021-04-25
 categories: "general-thoughts"
 ---
 
-{% include components/captioned_image.html url="assets/blog-images/2021-04-17-are-we-in-the-jail-of-our-mind/brain.jpg" %}
+{% include components/captioned_image.html url="assets/blog-images/2021-04-25-why-you-should-love-maths/i-love-maths.jpg" %}
 
 {% include components/consider-following-on-twitter.html %}
 

@@ -12,6 +12,8 @@ categories: "general-thoughts"
 
 {% include components/captioned_image.html url="assets/blog-images/2021-02-15-the-next-stage-of-our-evolution/a-new-dawn.jpg" description="A New Dawn" credits="https://www.reddit.com/user/learntimelapse/" %}
 
+{% include components/consider-following-on-twitter.html %}
+
 I often ask this question to myself. What is the next frontier for our race, in which direction are we heading, and how will we get there?
 
 To give you some background on why I think like this. We know humans are curious by default. We want to explore the universe. 

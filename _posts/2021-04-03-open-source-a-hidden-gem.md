@@ -12,6 +12,8 @@ categories: "tech"
 
 {% include components/captioned_image.html url="assets/blog-images/2021-04-03-open-source-a-hidden-gem/love-open-source.gif" description="Love Open Source" credits="https://dribbble.com/shots/5794317-We-Love-Open-Source" %}
 
+{% include components/consider-following-on-twitter.html %}
+
 ## Our Mentality
 
 We as a human race have always been curious and hungry for knowledge. It's hardwired in our brains to question reality and wonder what would happen if x occurs. And if we are motivated enough, we embark on the journey of finding the answer to our wonders. Even I got into computer science because as a kid I always wondered what makes this cursor moves inside the computer screen? Is it black magic? Is there a human sitting on the other side of the monitor moving it? I am sure every human being can relate to this at some point in their life. 

@@ -12,6 +12,8 @@ categories: "programming"
 
 {% include components/captioned_image.html url="assets/blog-images/2021-04-11-write-your-code-for-humans/intelligent-brain.png" %}
 
+{% include components/consider-following-on-twitter.html %}
+
 # TL;DR
 
 Write your code for humans. Make sure to create repeatable patterns in your code.
