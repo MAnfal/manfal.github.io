@@ -4,7 +4,8 @@ layout: default
 
 <h2 class="page-title">
     <span class="page-title__text">
-        {{ page.title }}
+        {% assign title = page.title | split: '[' %}
+        {{ title[0] }} {% if title[1] %} <strong>[{{ title[1] | remove: "]" }}]</strong> {% endif %}
     </span>
 </h2>
 
