@@ -1,11 +1,11 @@
 ---
 layout: blog
 
-title: Startup Guide [Actively Maintained]
+title: Startup Guide
 type: Blog
 relimage: assets/blog-images/2021-04-21-startup-guide/startup-guide.jpg
 keywords: tech,startup,startups,guide,startup guide,startups guide,tech startups guide,tech startup guide
-description: Startup Guide [Actively Maintained]
+description: Startup Guide
 date: 2021-04-21
 categories: "startup"
 ---
@@ -32,7 +32,7 @@ I have had a very difficult time figuring out the nitty gritty details of startu
 1. [The Top 5 Regrets Of The Dying](https://www.audible.ca/pd/The-Top-Five-Regrets-of-the-Dying-Audiobook/B075Y2TPNN).
 2. [$100 Startup](https://www.audible.ca/pd/The-100-Startup-Audiobook/B071F15R8S).
 
-## Step 2: Understand The Building Blocks Of Startup Founders 
+## Step 2: Understand The Building Blocks Of Startup Founders
 
 You don't have to be the master of all these qualities but if you can master 2 or 3, they will catapult you forward in the competition, [source](https://www.youtube.com/watch?v=WK_XwjhJl3k).
 
@@ -57,7 +57,7 @@ This an important step so don't ignore it. The best product in the world is of n
 
 ## Step 2: Problem Identification / Validation
 
-You need to figure out a problem. If you have gone through the resource above, you will know that first you have to figure out a problem in the real world. Once you have figured out the problem, you can apply the mom test to figure out if the problem is actually something you should be solving. You can also use the mom test to find the problem. I will suggest reading up on this [article](https://www.reddit.com/r/startups/comments/mmwphz/how_stripe_validates_ideas_for_new_products/) and this [Twitter thred](https://twitter.com/shreyas/status/1376033582305615873) on how to validate and prioritize the features in the product. 
+You need to figure out a problem. If you have gone through the resource above, you will know that first you have to figure out a problem in the real world. Once you have figured out the problem, you can apply the mom test to figure out if the problem is actually something you should be solving. You can also use the mom test to find the problem. I will suggest reading up on this [article](https://www.reddit.com/r/startups/comments/mmwphz/how_stripe_validates_ideas_for_new_products/) and this [Twitter thred](https://twitter.com/shreyas/status/1376033582305615873) on how to validate and prioritize the features in the product.
 
 ## Step 3: Build The MVP
 
@@ -88,7 +88,7 @@ After you graduate from the incubator or if you skipped the incubation step, you
 3. [GaryVee](https://www.youtube.com/channel/UCOEMEjL1GBJ41uCWur5VXWQ).
 4. [Justin Kan](https://www.youtube.com/channel/UCOEMEjL1GBJ41uCWur5VXWQ).
 5. [Startup Foundation](https://www.youtube.com/channel/UC4pZ4MuLc6nv_AGJoCv9wRA).
-6. [Actively Maintained Startup Related Videos List](https://www.youtube.com/playlist?list=PLfR0ntavyd6JGxhox5E5dVCH1hWrf5o0Q).
+6. [Startup Related Videos List](https://www.youtube.com/playlist?list=PLfR0ntavyd6JGxhox5E5dVCH1hWrf5o0Q).
 
 ## Blogs / Essays / Online Content
 
@@ -98,7 +98,7 @@ After you graduate from the incubator or if you skipped the incubation step, you
 
 ## Twitter
 
-1. [Actively Maintained Startup Digest](https://twitter.com/i/lists/1384774150661709826).
+1. [Startup Digest](https://twitter.com/i/lists/1384774150661709826).
 
 ## Front-End Development
 
